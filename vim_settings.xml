@@ -3,21 +3,61 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1484822610157">
+      <file name="/Dummy.txt" timestamp="1484827298108">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JavaProject1/src/JavaTest.java" timestamp="1484826418801" />
+      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/HelloWorld.java" timestamp="1484828691668">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+      </file>
+      <file name="/fragment.java" timestamp="1484828745135">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gVGltIisgIlxuIitpKTsKICAgICAgIAogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIaSBXb3JsZCIpOw==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gVGltIisgIlxuIitpKTsKICAgICAgIAogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIaSBXb3JsZCIpOw==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">Y2xhc3MgTXlHcmVldGluZyBpbXBsZW1lbnRzIEdyZWV0aW5nSW50ZXJmYWNlewogICAgICAgICAgICBwdWJsaWMgdm9pZCBncmVldCgpewo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CmludGVyZmFjZSBHcmVldGluZ0ludGVyZmFjZXsKCiAgICB2b2lkIGdyZWV0KCk7Cgp9</text>
+      </register>
+      <register name="4" type="4">
+        <text>public HelloWorld() {
+    }
+
+    @Override
+    public String toString() {
+        return &quot;HelloWorld{}&quot;;
+    }</text>
+      </register>
+      <register name="-" type="4">
+        <text>}</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
