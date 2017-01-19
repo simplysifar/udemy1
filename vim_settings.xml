@@ -6,7 +6,7 @@
       <file name="/Dummy.txt" timestamp="1484822610157">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/JavaProject1/src/JavaTest.java" timestamp="1484822913169" />
+      <file name="$USER_HOME$/IdeaProjects/JavaProject1/src/JavaTest.java" timestamp="1484826418801" />
     </filemarks>
     <jumps />
     <registers />
@@ -15,6 +15,10 @@
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
