@@ -6,10 +6,12 @@
       <file name="/Dummy.txt" timestamp="1484828785569">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/HelloWorld.java" timestamp="1484830143741">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="4" />
-        <mark key="." line="12" column="4" />
+      <file name="$USER_HOME$/IdeaProjects/HelloWorld/src/HelloWorld.java" timestamp="1485000849984">
+        <mark key="'" line="36" column="48" />
+        <mark key="[" line="37" column="40" />
+        <mark key="]" line="37" column="40" />
+        <mark key="." line="37" column="40" />
+        <mark key="^" line="35" column="54" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/JavaProject1/src/JavaTest.java" timestamp="1484958271854">
         <mark key="[" line="4" column="0" />
@@ -23,40 +25,45 @@
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="8" column="53" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/HelloWorld.java" />
+      <jump line="36" column="48" filename="$USER_HOME$/IdeaProjects/HelloWorld/src/HelloWorld.java" />
+    </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKENoYXJhY3RlciBjOiBjaGFycykgewo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgU3RyaW5nQnVmZmVyIGZvcm1hdChkb3VibGUgdiwgU3RyaW5nQnVmZmVyIHN0cmluZ0J1ZmZlciwgRmllbGRQb3NpdGlvbiBmaWVsZFBvc2l0aW9uKSB7CiAgICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgcHVibGljIFN0cmluZ0J1ZmZlciBmb3JtYXQobG9uZyBsLCBTdHJpbmdCdWZmZXIgc3RyaW5nQnVmZmVyLCBGaWVsZFBvc2l0aW9uIGZpZWxkUG9zaXRpb24pIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICBwdWJsaWMgTnVtYmVyIHBhcnNlKFN0cmluZyBzLCBQYXJzZVBvc2l0aW9uIHBhcnNlUG9zaXRpb24pIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgfQogICAgICAgICAgfQ==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKENoYXJhY3RlciBjOiBjaGFycykgewo=</text>
+      <register name="&quot;" type="4">
+        <text>getCurrency</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDaGFyYWN0ZXJbXSBjaGFycyA9IHMxLnRvQ2hhckFycmF5KCk7Cg==</text>
+      <register name="2" type="4">
+        <text>Scanner scanner = new Scanner(System.in);
+          System.out.println(&quot;Enter Name: &quot;);
+          System.out.println(&quot;you entered: &quot; + scanner.next());</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgaSA9NTsKICAgICAgICBTdHJpbmcgQT0iSGVsbG8gTWUiOwoKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkhlbGxvIFdvcmxkIik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFyZ3NbMF0pOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgKENoYXJhY3RlciBjOiBjaGFycykgewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBDaGFyYWN0ZXJbXSBjaGFycyA9IHMxLnRvQ2hhckFycmF5KCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIZWxsbyBXb3JsZCEiKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8gVGltIisgIlxuIitpKTsKICAgICAgIAogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJIaSBXb3JsZCIpOw==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">Y2xhc3MgTXlHcmVldGluZyBpbXBsZW1lbnRzIEdyZWV0aW5nSW50ZXJmYWNlewogICAgICAgICAgICBwdWJsaWMgdm9pZCBncmVldCgpewo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CmludGVyZmFjZSBHcmVldGluZ0ludGVyZmFjZXsKCiAgICB2b2lkIGdyZWV0KCk7Cgp9</text>
       </register>
-      <register name="7" type="4">
-        <text>public HelloWorld() {
-    }
-
-    @Override
-    public String toString() {
-        return &quot;HelloWorld{}&quot;;
-    }</text>
-      </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>getCurrency</text>
       </register>
     </registers>
     <search>
@@ -81,6 +88,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
