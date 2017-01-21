@@ -11,6 +11,9 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/JavaProject1/src/JavaTest.java" timestamp="1484958271854">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/src/Main.java" timestamp="1484956108134">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="0" />
@@ -75,6 +78,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
